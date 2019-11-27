@@ -8,12 +8,12 @@
 	--dmessagetransparency:			0.5;
 	--dguildchanneltransparency:	0.15;
 	--dmemberlisttransparency:		0.0;
-	--daccentcolor:					190,78,180;
+	--daccentcolor:					5,72,114;
 	
 	--dbackground:					url(https://mwittrien.github.io/BetterDiscordAddons/ThemesV2/BasicBackground/background.jpg);
 	--dbackgroundsize:				cover;
 	--dblur:						0px;
-	--dbackdrop:					rgba(0,0,0,0.85);
+	--dbackdrop:					rgba(30,178,255,255);
 
 	--vtransparencycolor:			var(--transparencycolor,			var(--dtransparencycolor));
 	--vtransparencyalpha:			var(--transparencyalpha,			var(--dtransparencyalpha));
